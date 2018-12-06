@@ -1,9 +1,9 @@
 # OnlyTrue
-OnlyTrue est composé d'une API et d'une extension navigateur qui vous permet d'interroger l'API et d'afficher les informations de manière lisible et synthétique.
-
 OnlyTrue vise à vous proposer des informations complémentaires aux articles d'informations que vous lisez sur internet en vous fournissant un niveau de confiance sur le contenu que vous avez devant les yeux.
 
-Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi OnlyTrue ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité.
+OnlyTrue est composé d'une API et d'une extension navigateur qui vous permet d'interroger l'API et d'afficher les informations de manière lisible et synthétique.
+
+Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi OnlyTrue ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité. Nous ne souhaitons pas par ailleurs que vous fassiez une confiance aveugle à OnlyTrue. Comme tout système, OnlyTrue n'est pas fiable à 100%. Le but de cette extension est de vous faire prendre conscience que toutes les informations que vous lisez sur internet ne sont pas fiables à 100% et de vous amener à avoir un regard critique sur le contenu des articles que vous parcourez.
 
 ## Niveau de fiabilité
 Le niveau de fiabilité d'une information est déterminé selon une méthode inspirée du comportement humain lors de la recherche d'informations complémentaires :
