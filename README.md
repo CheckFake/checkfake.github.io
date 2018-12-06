@@ -23,7 +23,7 @@ Le niveau de fiabilité d'une information est déterminé selon une méthode ins
 - Plus il y a d'articles "intéressants" parmi ceux que nous retourne le moteur de recherche, plus le niveau de confiance dans l'article que vous lisez sera élevé.
 
 ## Données conservées
-Nous conservons les données suivantes dans notre base de données:
+Nous conservons les informations suivantes dans notre base de données:
 
 - URL de l'article soumis à l'API
 - Nom de domaine de l'article (extrait de l'URL)
