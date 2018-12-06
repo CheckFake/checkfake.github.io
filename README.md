@@ -8,8 +8,8 @@ Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fau
 ## Téléchargement
 OnlyTrue est disponible en tant qu'extension pour les navigateurs suivants :
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/onlytrue/"><img src="images/firefox_64x64.png" title="logo firefox"></a>
-<a href="https://chrome.google.com/webstore/detail/onlytrue/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" title="logo chrome"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/onlytrue/"><img src="images/firefox_64x64.png" alt="logo firefox"></a>
+<a href="https://chrome.google.com/webstore/detail/onlytrue/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" alt="logo chrome"></a>
 
 ## Niveau de fiabilité
 Le niveau de fiabilité d'une information est déterminé selon une méthode inspirée du comportement humain lors de la recherche d'informations complémentaires :
