@@ -5,6 +5,12 @@ OnlyTrue est composé d'une API et d'une extension navigateur qui vous permet d'
 
 Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi OnlyTrue ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité. Nous ne souhaitons pas par ailleurs que vous fassiez une confiance aveugle à OnlyTrue. Comme tout système, OnlyTrue n'est pas fiable à 100%. Le but de cette extension est de vous faire prendre conscience que toutes les informations que vous lisez sur internet ne sont pas fiables à 100% et de vous amener à avoir un regard critique sur le contenu des articles que vous parcourez.
 
+## Téléchargement
+OnlyTrue est disponible en tant qu'extension pour les navigateurs suivants :
+
+<a href="https://addons.mozilla.org/en-US/firefox/addon/onlytrue/"><img src="images/firefox_64x64.png" title="logo firefox"></a>
+<a href="https://chrome.google.com/webstore/detail/onlytrue/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" title="logo chrome"></a>
+
 ## Niveau de fiabilité
 Le niveau de fiabilité d'une information est déterminé selon une méthode inspirée du comportement humain lors de la recherche d'informations complémentaires :
 
