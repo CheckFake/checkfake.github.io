@@ -16,6 +16,9 @@ OnlyTrue est disponible en tant qu'extension pour les navigateurs suivants :
 ## Usage
 Pour connaître le niveau de fiabilité accordé par OnlyTrue à un article affiché dans votre navigateur, cliquez sur l'icône OnlyTrue présente à côté de la barre d'adresse de votre navigateur. Après un temps de chargement, les informations s'affichent.
 
+## Limitations
+* OnlyTrue n'est pour le moment supportée que pour des textes en **français**.
+
 ## Niveau de fiabilité
 Le niveau de fiabilité d'une information est déterminé selon une méthode inspirée du comportement humain lors de la recherche d'informations complémentaires :
 
