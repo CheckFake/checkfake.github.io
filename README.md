@@ -10,8 +10,8 @@ Par ailleurs, et dans un souci de transparence, le code source décrivant les tr
 ## Téléchargement
 CheckFake est disponible en tant qu'extension pour les navigateurs suivants :
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/onlytrue/"><img src="images/firefox_64x64.png" alt="logo firefox"></a>
-<a href="https://chrome.google.com/webstore/detail/onlytrue/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" alt="logo chrome"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/checkfake/"><img src="images/firefox_64x64.png" alt="logo firefox"></a>
+<a href="https://chrome.google.com/webstore/detail/checkfake/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" alt="logo chrome"></a>
 
 ## Usage
 Pour connaître le niveau de fiabilité accordé par CheckFake à un article affiché dans votre navigateur, cliquez sur l'icône CheckFake présente à côté de la barre d'adresse de votre navigateur. Après un temps de chargement, les informations s'affichent.
