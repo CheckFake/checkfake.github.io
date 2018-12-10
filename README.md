@@ -5,7 +5,7 @@ CheckFake est composé d'une API et d'une extension navigateur qui vous permet d
 
 Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi CheckFake ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité. Nous ne souhaitons pas par ailleurs que vous fassiez une confiance aveugle à CheckFake. Comme tout système, CheckFake n'est pas fiable à 100%. Le but de cette extension est de vous faire prendre conscience que toutes les informations que vous lisez sur internet ne sont pas fiables à 100% et de vous amener à avoir un regard critique sur le contenu des articles que vous parcourez.
 
-Par ailleurs, et dans un souci de transparence, le code source décrivant les traitements effectués par CheckFake pour vous fournir ses résultats est disponible [sur GitHub](https://github.com/onlytrue-fnd)
+Par ailleurs, et dans un souci de transparence, le code source décrivant les traitements effectués par CheckFake pour vous fournir ses résultats est disponible [sur GitHub](https://github.com/checkfake)
 
 ## Téléchargement
 CheckFake est disponible en tant qu'extension pour les navigateurs suivants :
