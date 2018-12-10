@@ -1,23 +1,23 @@
-# OnlyTrue
-OnlyTrue vise à vous proposer des informations complémentaires aux articles d'informations que vous lisez sur internet en vous fournissant un niveau de confiance sur le contenu que vous avez devant les yeux.
+# CheckFake
+CheckFake vise à vous proposer des informations complémentaires aux articles d'informations que vous lisez sur internet en vous fournissant un niveau de confiance sur le contenu que vous avez devant les yeux.
 
-OnlyTrue est composé d'une API et d'une extension navigateur qui vous permet d'interroger l'API et d'afficher les informations de manière lisible et synthétique.
+CheckFake est composé d'une API et d'une extension navigateur qui vous permet d'interroger l'API et d'afficher les informations de manière lisible et synthétique.
 
-Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi OnlyTrue ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité. Nous ne souhaitons pas par ailleurs que vous fassiez une confiance aveugle à OnlyTrue. Comme tout système, OnlyTrue n'est pas fiable à 100%. Le but de cette extension est de vous faire prendre conscience que toutes les informations que vous lisez sur internet ne sont pas fiables à 100% et de vous amener à avoir un regard critique sur le contenu des articles que vous parcourez.
+Nous croyons qu'il n'existe rien de tel qu'une information purement vraie ou fausse, ainsi CheckFake ne juge pas la véracité d'une information ou non mais fournit une estimation de sa fiabilité. Nous ne souhaitons pas par ailleurs que vous fassiez une confiance aveugle à CheckFake. Comme tout système, CheckFake n'est pas fiable à 100%. Le but de cette extension est de vous faire prendre conscience que toutes les informations que vous lisez sur internet ne sont pas fiables à 100% et de vous amener à avoir un regard critique sur le contenu des articles que vous parcourez.
 
-Par ailleurs, et dans un souci de transparence, le code source décrivant les traitements effectués par OnlyTrue pour vous fournir ses résultats est disponible [sur GitHub](https://github.com/onlytrue-fnd)
+Par ailleurs, et dans un souci de transparence, le code source décrivant les traitements effectués par CheckFake pour vous fournir ses résultats est disponible [sur GitHub](https://github.com/onlytrue-fnd)
 
 ## Téléchargement
-OnlyTrue est disponible en tant qu'extension pour les navigateurs suivants :
+CheckFake est disponible en tant qu'extension pour les navigateurs suivants :
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/onlytrue/"><img src="images/firefox_64x64.png" alt="logo firefox"></a>
 <a href="https://chrome.google.com/webstore/detail/onlytrue/jcfpgmcndlcelogjncjamiebkicpijpp"><img src="images/chrome_64x64.png" alt="logo chrome"></a>
 
 ## Usage
-Pour connaître le niveau de fiabilité accordé par OnlyTrue à un article affiché dans votre navigateur, cliquez sur l'icône OnlyTrue présente à côté de la barre d'adresse de votre navigateur. Après un temps de chargement, les informations s'affichent.
+Pour connaître le niveau de fiabilité accordé par CheckFake à un article affiché dans votre navigateur, cliquez sur l'icône CheckFake présente à côté de la barre d'adresse de votre navigateur. Après un temps de chargement, les informations s'affichent.
 
 ## Limitations
-* OnlyTrue n'est pour le moment supportée que pour des textes en **français**.
+* CheckFake n'est pour le moment supportée que pour des textes en **français**.
 
 ## Niveau de fiabilité
 Le niveau de fiabilité d'une information est déterminé selon une méthode inspirée du comportement humain lors de la recherche d'informations complémentaires :
